@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "110086",
+  "releases": [
+    {
+      "version": "1.5.0",
+      "channel": "stable",
+      "variant": "tak",
+      "models": [
+        "110086"
+      ],
+      "file": "devices/sensor_110086/firmware/sensor_tak_110086_v1.5.0.zip",
+      "changes": [
+        "5 minutes override and 2-way relay on/off",
+        "Provide sensor HW information via BLE",
+        "Change in TABLENUMBER requirements for wall sensor",
+        "Minor bug fixes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "110038",
+  "sections": [
+    {
+      "id": "prep",
+      "title": "Forberedelser for oppdatering av sensor",
+      "image": "devices/sensor_110038/images/help/sensor_110038_help_1.png",
+      "text": [
+        "Sjekk sensorens P/N på etiketten på baksiden av sensoren (110038/110147 = vegg, 110086 = tak)."
+      ]
+    },
+    {
+      "id": "update",
+      "title": "Oppdatering av Sensor - HDU",
+      "image": "devices/sensor_110038/images/help/sensor_110038_help_2.png",
+      "text": [
+        "Slå av kursen til sentralen (PCU).",
+        "Ta sensoren (HDU) forsiktig ut av holderen.",
+        "Trykk 10 raske ganger på PUSH-knappen på sensoren.",
+        "Enheten vil vises som FireFenceHDU i enhetsoversikten.",
+        "Følg anvisningene i appen.",
+        "Sensoren vil pipe når oppdateringen er fullført."
+      ]
+    }
+  ]
+}

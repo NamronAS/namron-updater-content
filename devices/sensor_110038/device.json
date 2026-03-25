@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "110038",
+  "name": "Namron Sensor Vegg",
+  "description": "Veggsensor (HDU) for Namron komfyrvakt.",
+  "chipset": "nrf5x",
+  "status": "active",
+  "ble": {
+    "namePrefixes": [
+      "FireFenceHDU"
+    ]
+  },
+  "detection": {
+    "deviceType": "sensor",
+    "variant": "vegg",
+    "models": [
+      "110038",
+      "110147"
+    ],
+    "modelNumberCharacteristic": "00002a24-0000-1000-8000-00805f9b34fb"
+  },
+  "images": {
+    "thumbnail": "devices/sensor_110038/images/device/sensor_110038.png",
+    "hero": "devices/sensor_110038/images/device/sensor_110038.png"
+  }
+}

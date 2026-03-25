@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "110290",
+  "name": "Namron Sentral",
+  "description": "Sentralenhet (PCU) for Namron komfyrvakt.",
+  "chipset": "nrf5x",
+  "status": "active",
+  "ble": {
+    "namePrefixes": [
+      "FireFencePCU"
+    ]
+  },
+  "detection": {
+    "deviceType": "sentral",
+    "variant": "110282_90",
+    "models": [
+      "110282",
+      "110290"
+    ],
+    "modelNumberCharacteristic": "00002a24-0000-1000-8000-00805f9b34fb"
+  },
+  "images": {
+    "thumbnail": "devices/sentral_110290/images/device/sentral_110290.png",
+    "hero": "devices/sentral_110290/images/device/sentral_110290.png"
+  }
+}

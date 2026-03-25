@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-03-25T12:00:00Z",
+  "contentVersion": "2026.03.25",
+  "devices": [
+    {
+      "itemCode": "110038",
+      "name": "Namron Sensor Vegg",
+      "shortDescription": "Veggmontert sensor for komfyrvakt",
+      "chipset": "nrf5x",
+      "status": "active",
+      "paths": {
+        "device": "devices/110038/device.json",
+        "firmware": "devices/110038/firmware.json",
+        "help": "devices/110038/help.json"
+      }
+    },
+    {
+      "itemCode": "110068",
+      "name": "Namron Sentral",
+      "shortDescription": "Sentralenhet for komfyrvakt",
+      "chipset": "nrf5x",
+      "status": "active",
+      "paths": {
+        "device": "devices/110068/device.json",
+        "firmware": "devices/110068/firmware.json",
+        "help": "devices/110068/help.json"
+      }
+    }
+  ]
+}
