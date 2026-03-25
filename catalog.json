@@ -5,7 +5,7 @@
   "devices": [
     {
       "itemCode": "110038",
-      "name": "Namron Sensor Vegg",
+      "name": "Namron Komfyrvaktsensor Vegg",
       "shortDescription": "Veggsensor (HDU) for Namron komfyrvakt.",
       "chipset": "nrf5x",
       "status": "active",
@@ -17,7 +17,7 @@
     },
     {
       "itemCode": "110086",
-      "name": "Namron Sensor Tak",
+      "name": "Namron Komfyrvaktsensor Tak",
       "shortDescription": "Taksensor (HDU) for Namron komfyrvakt.",
       "chipset": "nrf5x",
       "status": "active",
@@ -29,7 +29,7 @@
     },
     {
       "itemCode": "110290",
-      "name": "Namron Sentral",
+      "name": "Namron Komfyrvaksentral",
       "shortDescription": "Sentralenhet (PCU) for Namron komfyrvakt.",
       "chipset": "nrf5x",
       "status": "active",
@@ -41,7 +41,7 @@
     },
     {
       "itemCode": "110068",
-      "name": "Namron Sentral",
+      "name": "Namron Komfyrvaktsentral",
       "shortDescription": "Sentralenhet (PCU) for Namron komfyrvakt.",
       "chipset": "nrf5x",
       "status": "active",
