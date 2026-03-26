@@ -4,6 +4,7 @@
   "name": "Namron Sentral",
   "description": "Sentralenhet (PCU) for Namron komfyrvakt.",
   "chipset": "nrf5x",
+  "updateMethod": "ble_ota",
   "status": "active",
   "ble": {
     "namePrefixes": [
