@@ -22,5 +22,9 @@
   "images": {
     "thumbnail": "devices/sensor_110086/images/device/sensor_110086.png",
     "hero": "devices/sensor_110086/images/device/sensor_110086.png"
-  }
+  },
+  "links": {
+  "manual": "https://www.elektroimportoren.no/docs/lib/1402790-Brukerveiledning-5.pdf",
+  "product": "https://www.elektroimportoren.no/?1402790"
+}
 }
