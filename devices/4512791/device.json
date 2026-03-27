@@ -4,12 +4,6 @@
   "name": "Namron Simplify Dimmer 1-2-Pol",
   "description": "1-2-pol dimmer",
   "status": "active",
-  "ble": {
-    "namePrefixes": [
-      "OTAD067",
-      "OTA7B8A"
-    ]
-  },
   "images": {
     "thumbnail": "devices/4512791/images/device/4512791.png",
     "hero": "devices/4512791/images/device/4512791.png"
