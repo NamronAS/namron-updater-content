@@ -4,7 +4,7 @@
   "name": "Namron Simplify Dimmer 1-2-Pol",
   "description": "1-2-pol dimmer",
   "chipset": "efr32",
-  "updateMethod": "silabs_ble_ota",
+  "updateMethod": "zigbee_ota",
   "status": "active",
   "ble": {
     "namePrefixes": [

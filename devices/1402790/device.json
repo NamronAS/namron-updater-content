@@ -14,7 +14,7 @@
   "components": [
     {
       "id": "Sensor_Vegg",
-      "name": "Namron Veggsensor",
+      "name": "Veggsensor",
       "description": "Veggsensor (HDU) for Namron komfyrvakt.",
       "images": {
             "thumbnail": "devices/1402790/images/device/sensor_110038.png"
@@ -70,7 +70,7 @@
     },
   {
       "id": "Sensor_Tak",
-      "name": "Namron Taksensor",
+      "name": "Taksensor",
       "description": "Taksensor (HDU) for Namron komfyrvakt.",
       "images": {
             "thumbnail": "devices/1402790/images/device/sensor_110086.png"
