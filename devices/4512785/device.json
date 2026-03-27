@@ -27,5 +27,9 @@
   "manual": "https://www.elektroimportoren.no/docs/lib/4512785-Brukerveiledning-5.pdf",
   "product": "https://www.elektroimportoren.no/?4512785",
   "cluster": "https://www.elektroimportoren.no/docs/lib/4512785-Cluster-47.pdf"
-}
+},
+  "paths": {
+    "help": "devices/4512785/help/4512785_help.json",
+    "firmware": "devices/4512785/firmware/4512785_firmware.json"
+  }
 }

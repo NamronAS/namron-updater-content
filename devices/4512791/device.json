@@ -45,5 +45,10 @@
   "manual": "https://www.elektroimportoren.no/docs/lib/4512791-Brukerveiledning-5.pdf",
   "product": "https://www.elektroimportoren.no/?4512791",
   "cluster": ""
-}
+  },
+  "paths": {
+    "help": "devices/4512791/help/4512791_help.json",
+    "firmware": "devices/4512791/firmware/4512791_firmware.json"
+  }
+
 }
