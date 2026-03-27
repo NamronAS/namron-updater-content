@@ -8,7 +8,8 @@
   "status": "active",
   "ble": {
     "namePrefixes": [
-      "4512791"
+      "OTAD067",
+      "OTA7B8A"
     ]
   },
   "detection": {
