@@ -14,7 +14,7 @@
   "components": [
     {
       "id": "Sensor",
-      "name": "Namron Sensor Vegg",
+      "name": "Namron Veggsensor",
       "description": "Veggsensor (HDU) for Namron komfyrvakt.",
       "images": {
             "thumbnail": "devices/1402790/images/device/sensor_110038.png"
@@ -32,7 +32,7 @@
       "hardware_types": [
         {
           "id": "110038",
-          "name": "110038 - Namron Sensor Vegg",
+          "name": "110038 - Namron Veggsensor",
           "description": "Veggsensor (HDU) for Namron komfyrvakt.",
           "images": {
             "thumbnail": "devices/1402790/images/device/sensor_110038.png"
@@ -50,7 +50,7 @@
         },
         {
           "id": "110147",
-          "name": "110147 - Namron Sensor Vegg",
+          "name": "110147 - Namron Veggsensor",
           "description": "Veggsensor (HDU) for Namron komfyrvakt.",
           "images": {
             "thumbnail": "devices/1402790/images/device/sensor_110147.png"
@@ -86,7 +86,7 @@
       "hardware_types": [
         {
           "id": "110086",
-          "name": "110086 - Namron Sensor Tak",
+          "name": "110086 - Namron Taksensor",
           "description": "Taksensor (HDU) for Namron komfyrvakt.",
           "images": {
             "thumbnail": "devices/1402790/images/device/sensor_110086.png"
@@ -107,7 +107,7 @@
     {
       "id": "Sentral",
       "name": "Sentral",
-      "description": "Sentral for komfyrvakten",
+      "description": "Sentral for komfyrvakt",
       "images": {
         "thumbnail": "devices/1402790/images/device/sentral_110290.png"
       },
@@ -126,7 +126,7 @@
         {
           "id": "110068",
           "name": "110068 - Namron Sentral",
-          "description": "Sentral for Namron komfyrvakt.",
+          "description": "Sentral for Namron komfyrvakt",
           "images": {
             "thumbnail": "devices/1402790/images/device/sentral_110068.png"
           },
@@ -144,7 +144,7 @@
         {
           "id": "110290",
           "name": "110290 - Namron Sentral",
-          "description": "Sentral for Namron komfyrvakt.",
+          "description": "Sentral for Namron komfyrvakt",
           "images": {
             "thumbnail": "devices/1402790/images/device/sentral_110290.png"
           },
