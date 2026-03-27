@@ -26,6 +26,9 @@
             "deviceType": "",
             "variant": ""
       },
+      "paths": {
+        "hardwareTypesHelp": "devices/1402790/help/sensor_help.json"
+      },
       "hardware_types": [
         {
           "id": "110038",
@@ -77,6 +80,9 @@
       "detection": {
         "deviceType": "sensor"
       },
+      "paths": {
+        "hardwareTypesHelp": "devices/1402790/help/sensor_help.json"
+      },
       "hardware_types": [
         {
           "id": "110086",
@@ -112,6 +118,9 @@
       },
       "detection": {
         "deviceType": "sentral"
+      },
+      "paths": {
+        "hardwareTypesHelp": "devices/1402790/help/sentral_help.json"
       },
       "hardware_types": [
         {
