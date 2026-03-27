@@ -16,6 +16,9 @@
       "id": "Sensor",
       "name": "Namron Sensor Vegg",
       "description": "Veggsensor (HDU) for Namron komfyrvakt.",
+      "images": {
+            "thumbnail": "devices/1402790/images/device/sensor_110038.png"
+      },
       "chipset": "nrf52",
       "updateMethod": "app",
       "detection": {
@@ -26,8 +29,11 @@
       "hardware_types": [
         {
           "id": "110038",
-          "name": "Namron Sensor Vegg",
+          "name": "110038 - Namron Sensor Vegg",
           "description": "Veggsensor (HDU) for Namron komfyrvakt.",
+          "images": {
+            "thumbnail": "devices/1402790/images/device/sensor_110038.png"
+          },
           "chipset": "nrf52",
           "detection": {
             "bleNamePrefixes": ["FireFenceHDU"],
@@ -41,8 +47,11 @@
         },
         {
           "id": "110147",
-          "name": "Namron Sensor Vegg",
+          "name": "110147 - Namron Sensor Vegg",
           "description": "Veggsensor (HDU) for Namron komfyrvakt.",
+          "images": {
+            "thumbnail": "devices/1402790/images/device/sensor_110147.png"
+          },
           "chipset": "nrf52",
           "detection": {
             "bleNamePrefixes": ["FireFenceHDU"],
@@ -60,6 +69,9 @@
       "id": "Sensor",
       "name": "Namron Sensor Tak",
       "description": "Tak sensor (HDU) for Namron komfyrvakt.",
+      "images": {
+            "thumbnail": "devices/1402790/images/device/sensor_110086.png"
+      },
       "chipset": "nrf52",
       "updateMethod": "app",
       "detection": {
@@ -68,8 +80,11 @@
       "hardware_types": [
         {
           "id": "110086",
-          "name": "Namron Sensor Tak",
+          "name": "110086 - Namron Sensor Tak",
           "description": "Taksensor (HDU) for Namron komfyrvakt.",
+          "images": {
+            "thumbnail": "devices/1402790/images/device/sensor_110086.png"
+          },
           "chipset": "nrf52",
           "detection": {
             "bleNamePrefixes": ["FireFenceHDU"],
@@ -87,6 +102,9 @@
       "id": "Sentral",
       "name": "Sentral",
       "description": "Sentral for komfyrvakten",
+      "images": {
+        "thumbnail": "devices/1402790/images/device/sentral_110290.png"
+      },
       "chipset": "nrf52",
       "updateMethod": "app",
       "ble": {
@@ -98,8 +116,11 @@
       "hardware_types": [
         {
           "id": "110068",
-          "name": "Namron Sentral",
+          "name": "110068 - Namron Sentral",
           "description": "Sentral for Namron komfyrvakt.",
+          "images": {
+            "thumbnail": "devices/1402790/images/device/sentral_110068.png"
+          },
           "chipset": "nrf52",
           "detection": {
             "bleNamePrefixes": ["FireFencePSU"],
@@ -113,8 +134,11 @@
         },
         {
           "id": "110290",
-          "name": "Namron Sentral",
+          "name": "110290 - Namron Sentral",
           "description": "Sentral for Namron komfyrvakt.",
+          "images": {
+            "thumbnail": "devices/1402790/images/device/sentral_110290.png"
+          },
           "chipset": "nrf52",
           "detection": {
             "bleNamePrefixes": ["FireFencePSU"],
