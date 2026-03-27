@@ -3,14 +3,6 @@
   "itemCode": "110086",
   "sections": [
     {
-      "id": "prep",
-      "title": "Forberedelser for oppdatering av sensor",
-      "image": "devices/1402790/images/help/110086/sensor_110086_help_1.png",
-      "text": [
-        "Sjekk sensorens P/N på etiketten på baksiden av sensoren (110038/110147 = vegg, 110086 = tak)."
-      ]
-    },
-    {
       "id": "update",
       "title": "Oppdatering av Sensor - HDU",
       "image": "devices/1402790/images/help/110086/sensor_110086_help_2.png",

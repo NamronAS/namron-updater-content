@@ -3,14 +3,6 @@
   "itemCode": "110068",
   "sections": [
     {
-      "id": "prep",
-      "title": "Forberedelser for oppdatering av sentral",
-      "image": "devices/1402790/images/help/110068/sentral_110068_help_1.png",
-      "text": [
-        "Sjekk sentralens type i menyvalg 7 på enheten (110282/90 eller 110068)."
-      ]
-    },
-    {
       "id": "update",
       "title": "Oppdatering av Sentral - PCU",
       "image": "devices/1402790/images/help/110068/sentral_110068_help_2.png",
