@@ -4,7 +4,7 @@
   "name": "Namron Simplify Dimmer 1-2-Pol",
   "description": "1-2-pol dimmer",
   "chipset": "efr32",
-  "updateMethod": "ble_ota",
+  "updateMethod": "silabs_ble_ota",
   "status": "active",
   "ble": {
     "namePrefixes": [
@@ -13,12 +13,29 @@
     ]
   },
   "detection": {
-    "deviceType": "Relay",
+    "deviceType": "Dimmer",
     "variant": "4512791",
     "models": [
       "4512791"
     ],
     "modelNumberCharacteristic": "00002a24-0000-1000-8000-00805f9b34fb"
+  },
+  "ota": {
+    "serviceUuid": "REPLACE_WITH_REAL_OTA_SERVICE_UUID",
+    "controlCharacteristicUuid": "REPLACE_WITH_REAL_OTA_CONTROL_UUID",
+    "dataCharacteristicUuid": "REPLACE_WITH_REAL_OTA_DATA_UUID",
+    "requiresRebootToOta": true,
+    "rebootServiceUuid": "REPLACE_WITH_REAL_REBOOT_SERVICE_UUID_OR_SAME_AS_SERVICE",
+    "rebootCharacteristicUuid": "REPLACE_WITH_REAL_REBOOT_CHARACTERISTIC_UUID_OR_SAME_AS_CONTROL",
+    "rebootValue": [0],
+    "startCommand": [0],
+    "finishCommand": [3],
+    "controlWriteWithResponse": true,
+    "dataWriteWithResponse": false,
+    "chunkSize": 20,
+    "rebootDelayMs": 1800,
+    "reconnectTimeoutMs": 30000,
+    "reconnectPollMs": 1200
   },
   "images": {
     "thumbnail": "devices/4512791/images/device/4512791.png",

@@ -3,8 +3,8 @@
   "itemCode": "4512785",
   "name": "Namron Zigbee Heavy Duty 30A",
   "description": "30A Heavy duty relé",
-  "chipset": "efr32",
-  "updateMethod": "zigbee_ota",
+  "chipset": "",
+  "updateMethod": "silabs_ble_ota",
   "status": "active",
   "ble": {
     "namePrefixes": [

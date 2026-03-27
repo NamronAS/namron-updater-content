@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "110290",
+  "sections": [
+    {
+      "id": "prep",
+      "title": "Forberedelser for oppdatering av sentral",
+      "image": "devices/sentral_110290/images/help/sentral_110290_help_1.png",
+      "text": [
+        "Sjekk sentralens type i menyvalg 7 på enheten (110282/90 eller 110068)."
+      ]
+    },
+    {
+      "id": "update",
+      "title": "Oppdatering av Sentral - PCU",
+      "image": "devices/sentral_110290/images/help/sentral_110290_help_2.png",
+      "text": [
+        "Ta sensoren (HDU) forsiktig ut av holderen. Fjern batteriene.",
+        "Slå av og på sikringen slik at PCU restarter.",
+        "Enheten vil vises som FireFencePCU i enhetsoversikten.",
+        "Følg anvisningene i appen.",
+        "Når oppdateringen er fullført setter du batteriene tilbake i sensoren.",
+        "Restart PCU (slå av/på sikringen).",
+        "Sett sensoren tilbake i holderen.",
+        "Vent til displayet viser Stove Normal."
+      ]
+    }
+  ]
+}
