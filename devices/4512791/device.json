@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "4512785",
+  "name": "Namron Zigbee Heavy Duty 30A",
+  "description": "30A Heavy duty relé",
+  "chipset": "efr32",
+  "updateMethod": "zigbee_ota",
+  "status": "active",
+  "ble": {
+    "namePrefixes": [
+      "4512785"
+    ]
+  },
+  "detection": {
+    "deviceType": "Relay",
+    "variant": "4512785",
+    "models": [
+      "4512785"
+    ],
+    "modelNumberCharacteristic": "00002a24-0000-1000-8000-00805f9b34fb"
+  },
+  "images": {
+    "thumbnail": "devices/4512791/images/device/4512791.png",
+    "hero": "devices/4512791/images/device/4512791.png"
+  },
+  "links": {
+  "manual": "https://www.elektroimportoren.no/docs/lib/4512791-Brukerveiledning-5.pdf",
+  "product": "https://www.elektroimportoren.no/?4512791",
+  "cluster": ""
+}
+}
