@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
-  "itemCode": "110290",
+  "itemCode": "110068",
   "releases": [
     {
       "version": "1.6.0",
       "channel": "beta",
-      "variant": "110282_90",
+      "variant": "110068",
       "models": [
-        "110282",
-        "110290"
+        "110068"
       ],
-      "file": "devices/sentral_110290/firmware/sentral_110290_v1.6.0.zip",
+      "file": "devices/1402790/firmware/110068/sentral_110068_v1.6.0.zip",
       "changes": [
         "Oppdatering av Zigbee-stakken",
         "Åpnet mulighet for å skru av og på via gateway",
@@ -20,12 +19,11 @@
     {
       "version": "1.5.0",
       "channel": "stable",
-      "variant": "110282_90",
+      "variant": "110068",
       "models": [
-        "110282",
-        "110290"
+        "110068"
       ],
-      "file": "devices/sentral_110290/firmware/sentral_110290_v1.5.0.zip",
+      "file": "devices/1402790/firmware/110068/sentral_110068_v1.5.0.zip",
       "changes": [
         "Update NRF5 SDK",
         "Change FireFence role from End Device to Router",

@@ -5,7 +5,7 @@
     {
       "id": "prep",
       "title": "Forberedelser for oppdatering av sentral",
-      "image": "devices/sentral_110068/images/help/sentral_110068_help_1.png",
+      "image": "devices/1402790/images/help/110068/sentral_110068_help_1.png",
       "text": [
         "Sjekk sentralens type i menyvalg 7 på enheten (110282/90 eller 110068)."
       ]
@@ -13,7 +13,7 @@
     {
       "id": "update",
       "title": "Oppdatering av Sentral - PCU",
-      "image": "devices/sentral_110068/images/help/sentral_110068_help_2.png",
+      "image": "devices/1402790/images/help/110068/sentral_110068_help_2.png",
       "text": [
         "Ta sensoren (HDU) forsiktig ut av holderen. Fjern batteriene.",
         "Slå av og på sikringen slik at PCU restarter.",

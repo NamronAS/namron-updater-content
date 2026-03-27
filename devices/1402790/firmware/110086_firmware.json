@@ -9,7 +9,7 @@
       "models": [
         "110086"
       ],
-      "file": "devices/sensor_110086/firmware/sensor_tak_110086_v1.5.0.zip",
+      "file": "devices/1402790/firmware/110086/sensor_tak_110086_v1.5.0.zip",
       "changes": [
         "5 minutes override and 2-way relay on/off",
         "Provide sensor HW information via BLE",

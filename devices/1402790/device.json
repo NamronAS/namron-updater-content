@@ -35,8 +35,8 @@
             "variant": "Vegg"
           },
           "paths": {
-            "help": "devices/1402790/help/110038.json",
-            "firmware": "devices/1402790/firmware/110038.json"
+            "help": "devices/1402790/help/110038_help.json",
+            "firmware": "devices/1402790/firmware/110038_firmware.json"
           }
         },
         {
@@ -50,8 +50,8 @@
             "variant": "vegg"
           },
           "paths": {
-            "help": "devices/1402790/help/110147.json",
-            "firmware": "devices/1402790/firmware/110147.json"
+            "help": "devices/1402790/help/110147_help.json",
+            "firmware": "devices/1402790/firmware/110147_firmware.json"
           }
         }
       ]
@@ -77,8 +77,8 @@
             "variant": "tak"
           },
           "paths": {
-            "help": "devices/1402790/help/sensor_wall_v1.json",
-            "firmware": "devices/1402790/firmware/sensor_wall_v1.json"
+            "help": "devices/1402790/help/110086_help.json",
+            "firmware": "devices/1402790/firmware/110086_firmware.json"
           }
         }
       ]
@@ -107,8 +107,8 @@
             "variant": ""
           },
           "paths": {
-            "help": "devices/1402790/help/110068.json",
-            "firmware": "devices/1402790/firmware/110068.json"
+            "help": "devices/1402790/help/110068_help.json",
+            "firmware": "devices/1402790/firmware/110068_firmware.json"
           }
         },
         {
@@ -122,8 +122,8 @@
             "variant": ""
           },
           "paths": {
-            "help": "devices/1402790/help/110290.json",
-            "firmware": "devices/1402790/firmware/110290.json"
+            "help": "devices/1402790/help/110290_help.json",
+            "firmware": "devices/1402790/firmware/110290_firmware.json"
           }
         }
       ]

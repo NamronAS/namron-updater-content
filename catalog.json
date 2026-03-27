@@ -4,57 +4,24 @@
   "contentVersion": "2026.03.25",
   "devices": [
     {
-      "itemCode": "110038",
+      "itemCode": "1402790",
       "status": "active",
       "paths": {
-        "device": "devices/sensor_110038/device.json",
-        "firmware": "devices/sensor_110038/firmware.json",
-        "help": "devices/sensor_110038/help.json"
-      }
-    },
-    {
-      "itemCode": "110086",
-      "status": "active",
-      "paths": {
-        "device": "devices/sensor_110086/device.json",
-        "firmware": "devices/sensor_110086/firmware.json",
-        "help": "devices/sensor_110086/help.json"
-      }
-    },
-    {
-      "itemCode": "110290",
-      "status": "active",
-      "paths": {
-        "device": "devices/sentral_110290/device.json",
-        "firmware": "devices/sentral_110290/firmware.json",
-        "help": "devices/sentral_110290/help.json"
-      }
-    },
-    {
-      "itemCode": "110068",
-      "status": "active",
-      "paths": {
-        "device": "devices/sentral_110068/device.json",
-        "firmware": "devices/sentral_110068/firmware.json",
-        "help": "devices/sentral_110068/help.json"
+        "device": "devices/sensor_110038/device.json"
       }
     },
     {
       "itemCode": "4512785",
       "status": "active",
       "paths": {
-        "device": "devices/4512785/device.json",
-        "firmware": "devices/4512785/firmware.json",
-        "help": "devices/4512785/help.json"
+        "device": "devices/4512785/device.json"
       }
     },
         {
       "itemCode": "4512791",
       "status": "active",
       "paths": {
-        "device": "devices/4512791/device.json",
-        "firmware": "devices/4512791/firmware.json",
-        "help": "devices/4512791/help.json"
+        "device": "devices/4512791/device.json"
       }
     }
   ]
