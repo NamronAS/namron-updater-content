@@ -3,8 +3,6 @@
   "itemCode": "4512791",
   "name": "Namron Simplify Dimmer 1-2-Pol",
   "description": "1-2-pol dimmer",
-  "chipset": "efr32",
-  "updateMethod": "zigbee_ota",
   "status": "active",
   "ble": {
     "namePrefixes": [
@@ -32,7 +30,7 @@
       "images": {
             "thumbnail": "devices/4512791/images/device/4512791.png"
       },
-      "chipset": "nrf52",
+      "chipset": "efr32",
       "updateMethod": "app",
       "detection": {
             "bleNamePrefixes": [""],
@@ -51,8 +49,8 @@
       "images": {
             "thumbnail": "devices/4512791/images/device/4512791.png"
       },
-      "chipset": "nrf52",
-      "updateMethod": "app",
+      "chipset": "efr32",
+      "updateMethod": "external",
       "detection": {
             "bleNamePrefixes": [""],
             "deviceType": "",
