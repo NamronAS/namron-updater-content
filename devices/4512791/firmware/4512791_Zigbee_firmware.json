@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "4512791",
+  "releases": [
+    {
+      "version": "1.13",
+      "channel": "stabile",
+      "variant": "",
+      "models": [
+        "4512791"
+      ],
+      "file": "devices/4512791/firmware/4512791/4512791_v1.13_20250929_FW26.gbl",
+      "changes": [
+        "Delete iv index update"
+      ]
+    },
+    {
+      "version": "1.14",
+      "channel": "beta",
+      "variant": "",
+      "models": [
+        "4512791"
+      ],
+      "file": "devices/4512791/firmware/4512791/4512791_v1.14_20250929_FW29.gbl",
+      "changes": [
+        "Modify PDU write interval",
+        "Add IV Update",
+        "After network access, disable automatic shrinkage"
+      ]
+    }
+  ]
+}
