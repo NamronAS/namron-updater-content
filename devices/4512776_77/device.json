@@ -18,7 +18,7 @@
   },
   "components": [
     {
-      "id": "WiFi",
+      "id": "4512776_77_WiFi",
       "name": "WiFi",
       "description": "Jeg vil oppdatere en Panelovn Pro med WiFi",
       "images": {
@@ -37,7 +37,7 @@
       }
     },
       {
-      "id": "Zigbee",
+      "id": "4512776_77_Zigbee",
       "name": "Zigbee",
       "description": "Jeg vil oppdatere en Panelovn Pro med Zigbee",
       "images": {
