@@ -132,7 +132,7 @@
           },
           "chipset": "nrf52",
           "detection": {
-            "bleNamePrefixes": ["FireFencePSU"],
+            "bleNamePrefixes": ["FireFencePCU"],
             "deviceType": "sentral",
             "variant": ""
           },
@@ -150,7 +150,7 @@
           },
           "chipset": "nrf52",
           "detection": {
-            "bleNamePrefixes": ["FireFencePSU"],
+            "bleNamePrefixes": ["FireFencePCU"],
             "deviceType": "sentral",
             "variant": ""
           },
