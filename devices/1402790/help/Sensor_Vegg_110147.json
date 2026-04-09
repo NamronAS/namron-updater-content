@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "1402790",
+  "componentId": "Sensor_Vegg",
+  "hardwareTypeId": "110147",
+  "sections": [
+    {
+      "id": "sensor-vegg",
+      "title": "Oppdatering av Sensor - HDU",
+      "image": "devices/1402790/images/help/sensor_110038_help_1.png",
+      "text": [
+        "Slå av kursen til sentralen (PCU).",
+        "Ta sensoren (HDU) forsiktig ut av holderen.",
+        "Trykk 10 raske ganger på PUSH-knappen på sensoren.",
+        "Enheten vil vises som FireFenceHDU i enhetsoversikten.",
+        "Følg anvisningene i appen.",
+        "Sensoren vil pipe når oppdateringen er fullført."
+      ]
+    }
+  ]
+}

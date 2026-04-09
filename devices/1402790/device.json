@@ -12,7 +12,8 @@
     "product": "https://www.elektroimportoren.no/?1402790"
   },
   "paths": {
-    "device": "devices/1402790/device.json"
+    "device": "devices/1402790/device.json",
+    "componentsHelp": "devices/1402790/help/components_help.json"
   },
   "components": [
     {
@@ -30,7 +31,7 @@
         ]
       },
       "paths": {
-        "hardwareTypesHelp": "devices/1402790/help/sensor_help.json"
+        "hardwareTypesHelp": "devices/1402790/help/Sensor_Vegg_hardware_types_help.json"
       },
       "hardware_types": [
         {
@@ -40,7 +41,7 @@
           "chipset": "nrf52",
           "updateMethod": "app",
           "images": {
-            "thumbnail": "devices/1402790/images/hardware_types/Sensor_Vegg_110038/sensor_110038.png"
+            "thumbnail": "devices/1402790/images/hardware_types/Sensor_Vegg_110038/sensor_110038_help_2.png"
           },
           "detection": {
             "bleNamePrefixes": [
@@ -61,7 +62,7 @@
           "chipset": "nrf52",
           "updateMethod": "app",
           "images": {
-            "thumbnail": "devices/1402790/images/hardware_types/Sensor_Vegg_110147/sensor_110147.png"
+            "thumbnail": "devices/1402790/images/hardware_types/Sensor_Vegg_110147/sensor_110038_help_2.png"
           },
           "detection": {
             "bleNamePrefixes": [
@@ -71,7 +72,7 @@
             "variant": "vegg"
           },
           "paths": {
-            "help": "devices/1402790/help/110147_help.json",
+            "help": "devices/1402790/help/Sensor_Vegg_110147.json",
             "firmware": "devices/1402790/firmware/110147_firmware.json"
           }
         }
@@ -84,7 +85,7 @@
       "chipset": "nrf52",
       "updateMethod": "app",
       "images": {
-        "thumbnail": "devices/1402790/images/components/sensor_110086.png"
+        "thumbnail": "devices/1402790/images/components/sensor_110038.png"
       },
       "detection": {
         "deviceType": "sensor"
@@ -100,7 +101,7 @@
           "chipset": "nrf52",
           "updateMethod": "app",
           "images": {
-            "thumbnail": "devices/1402790/images/hardware_types/Sensor_Tak_110086/sensor_110086.png"
+            "thumbnail": "devices/1402790/images/hardware_types/Sensor_Tak_110086/sensor_110038_help_2.png"
           },
           "detection": {
             "bleNamePrefixes": [
@@ -123,7 +124,7 @@
       "chipset": "nrf52",
       "updateMethod": "app",
       "images": {
-        "thumbnail": "devices/1402790/images/components/sentral_110290.png"
+        "thumbnail": "devices/1402790/images/components/1402790.png"
       },
       "detection": {
         "bleNamePrefixes": [
@@ -142,7 +143,7 @@
           "chipset": "nrf52",
           "updateMethod": "app",
           "images": {
-            "thumbnail": "devices/1402790/images/hardware_types/Sentral_110068/sentral_110068.png"
+            "thumbnail": "devices/1402790/images/hardware_types/Sentral_110068/sentral_110290_help_1.png"
           },
           "detection": {
             "bleNamePrefixes": [
@@ -162,7 +163,7 @@
           "chipset": "nrf52",
           "updateMethod": "app",
           "images": {
-            "thumbnail": "devices/1402790/images/hardware_types/Sentral_110290/sentral_110290.png"
+            "thumbnail": "devices/1402790/images/hardware_types/Sentral_110290/sentral_110290_help_1.png"
           },
           "detection": {
             "bleNamePrefixes": [

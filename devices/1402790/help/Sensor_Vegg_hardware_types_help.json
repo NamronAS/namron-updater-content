@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "1402790",
+  "componentId": "Sensor_Vegg",
+  "sections": [
+    {
+      "id": "sensor-vegg",
+      "title": "",
+      "image": "devices/1402790/images/help/sensor_110038_help_1.png",
+      "text": []
+    }
+  ]
+}
