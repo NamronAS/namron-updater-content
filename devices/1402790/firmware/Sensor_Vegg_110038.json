@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "1402790",
+  "componentId": "Sensor_Vegg",
+  "hardwareTypeId": "110038",
+  "releases": [
+    {
+      "version": "1.5.1",
+      "channel": "beta",
+      "variant": "vegg",
+      "transport": "nordic_dfu",
+      "file": "devices/1402790/firmware/sensor_vegg_110038_v1.5.1.zip",
+      "changes": [
+        "Hyppigere temperaturmålinger",
+        "Stabilitetsforbedringer"
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "channel": "stable",
+      "variant": "vegg",
+      "transport": "nordic_dfu",
+      "file": "devices/1402790/firmware/sensor_vegg_110038_v1.5.0.zip",
+      "changes": [
+        "5 minutes override and 2-way relay on/off",
+        "Provide sensor HW information via BLE",
+        "Change in TABLENUMBER requirements for wall sensor",
+        "Minor bug fixes"
+      ]
+    }
+  ]
+}

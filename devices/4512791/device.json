@@ -9,57 +9,53 @@
     "hero": "devices/4512791/images/device/4512791.png"
   },
   "links": {
-  "manual": "https://www.elektroimportoren.no/docs/lib/4512791-Brukerveiledning-5.pdf",
-  "product": "https://www.elektroimportoren.no/?4512791",
-  "cluster": ""
+    "manual": "https://www.elektroimportoren.no/docs/lib/4512791-Brukerveiledning-5.pdf",
+    "product": "https://www.elektroimportoren.no/?4512791",
+    "cluster": ""
   },
   "paths": {
-  "componentsHelp": "devices/4512791/help/components_help.json"
+    "device": "devices/4512791/device.json",
+    "help": "devices/4512791/help/4512791_help.json",
+    "firmware": "devices/4512791/firmware/4512791_firmware.json"
   },
   "components": [
     {
       "id": "Bluetooth_Mesh",
       "name": "Bluetooth Mesh",
       "description": "Jeg vil oppdatere Bluetooth Mesh protokollen",
-      "images": {
-            "thumbnail": "devices/4512791/images/device/4512791.png"
-      },
       "chipset": "efr32",
       "updateMethod": "app",
+      "images": {
+        "thumbnail": "devices/4512791/images/components/4512791.png"
+      },
       "detection": {
-            "bleNamePrefixes": [""],
-            "deviceType": "",
-            "variant": ""
+        "bleNamePrefixes": [
+          ""
+        ]
       },
       "paths": {
-        "help": "devices/4512791/help/4512791_BLE_help.json",
-        "firmware": "devices/4512791/firmware/4512791_BLE_firmware.json"
+        "help": "devices/4512791/help/Bluetooth_Mesh.json",
+        "firmware": "devices/4512791/firmware/Bluetooth_Mesh.json"
       }
     },
-      {
+    {
       "id": "Zigbee",
       "name": "Zigbee",
       "description": "Jeg vil oppdatere Zigbee protokollen",
-      "images": {
-            "thumbnail": "devices/4512791/images/device/4512791.png"
-      },
       "chipset": "efr32",
       "updateMethod": "external",
+      "images": {
+        "thumbnail": "devices/4512791/images/components/4512791.png"
+      },
       "detection": {
-            "bleNamePrefixes": [""],
-            "deviceType": "",
-            "variant": ""
+        "bleNamePrefixes": [
+          ""
+        ]
       },
       "paths": {
-        "help": "devices/4512791/help/4512791_Zigbee_help.json",
-        "firmware": "devices/4512791/firmware/4512791_Zigbee_firmware.json"
+        "help": "devices/4512791/help/Zigbee.json",
+        "firmware": "devices/4512791/firmware/Zigbee.json"
       }
     }
-  ],
-
-  "paths": {
-    "help": "devices/4512791/help/4512791_help.json",
-    "firmware": "devices/4512791/firmware/4512791_firmware.json"
-  }
-
+  ]
 }
