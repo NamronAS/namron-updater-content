@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "1402790",
+  "componentId": "1402790_veggsensor",
+  "hardwareTypeId": "1402790_1402790_veggsensor_110038",
+  "sections": [
+    {
+      "id": "110038",
+      "title": "110038",
+      "image": "devices/1402790/images/help/sensor_110038_help_2.png",
+      "text": [
+        "\"Slå av kursen til sentralen (PCU).\",",
+        "\"Ta sensoren (HDU) forsiktig ut av holderen.\",",
+        "\"Trykk 10 raske ganger på PUSH-knappen på sensoren.\",",
+        "\"Enheten vil vises som FireFenceHDU i enhetsoversikten.\",",
+        "\"Følg anvisningene i appen.\",",
+        "\"Sensoren vil pipe når oppdateringen er fullført.\""
+      ]
+    }
+  ]
+}

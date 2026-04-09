@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-09T19:12:30.272Z",
+  "contentVersion": "2026.04.02",
+  "devices": [
+    {
+      "itemCode": "1402790",
+      "status": "active",
+      "paths": {
+        "device": "devices/1402790/device.json"
+      }
+    },
+    {
+      "itemCode": "4512785",
+      "status": "active",
+      "paths": {
+        "device": "devices/4512785/device.json"
+      }
+    },
+    {
+      "itemCode": "4512791",
+      "status": "active",
+      "paths": {
+        "device": "devices/4512791/device.json"
+      }
+    },
+    {
+      "itemCode": "4512776_77",
+      "status": "active",
+      "paths": {
+        "device": "devices/4512776_77/device.json"
+      }
+    }
+  ]
+}
