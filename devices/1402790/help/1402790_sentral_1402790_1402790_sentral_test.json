@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "1402790",
+  "componentId": "1402790_sentral",
+  "hardwareTypeId": "1402790_1402790_sentral_test",
+  "sections": [
+    {
+      "id": "test",
+      "title": "test",
+      "text": [
+        "test"
+      ]
+    }
+  ]
+}

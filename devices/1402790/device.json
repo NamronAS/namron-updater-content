@@ -145,6 +145,7 @@
             "thumbnail": "devices/1402790/images/hardware_types/1402790_sentral_1402790_1402790_sentral_test/4512791-1.png"
           },
           "paths": {
+            "help": "devices/1402790/help/1402790_sentral_1402790_1402790_sentral_test.json",
             "firmware": "devices/1402790/firmware/1402790_sentral_1402790_1402790_sentral_test.json"
           }
         }
