@@ -27,6 +27,6 @@
   "paths": {
     "device": "devices/4512785/device.json",
     "help": "devices/4512785/help/device_help.json",
-    "firmware": "devices/4512785/firmware/4512785_firmware.json"
+    "firmware": "devices/4512785/firmware/device.json"
   }
 }

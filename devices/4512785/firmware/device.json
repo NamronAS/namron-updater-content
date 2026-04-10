@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "itemCode": "4512785",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "targets": [
+        {
+          "id": "mcu",
+          "name": "MCU",
+          "transport": "silabs_ble_ota"
+        }
+      ],
+      "changes": [
+        "test"
+      ]
+    }
+  ]
+}

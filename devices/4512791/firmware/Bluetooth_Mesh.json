@@ -5,7 +5,6 @@
   "releases": [
     {
       "version": "1.13",
-      "channel": "stabile",
       "variant": "",
       "transport": "silabs_ble_ota",
       "file": "devices/4512791/firmware/4512791_v1.13_20250929_FW26.gbl",
