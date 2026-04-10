@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-10T09:06:36.683Z",
+  "updatedAt": "2026-04-10T09:15:40.783Z",
   "contentVersion": "2026.04.02",
   "devices": [
     {
@@ -22,13 +22,6 @@
       "status": "active",
       "paths": {
         "device": "devices/4512791/device.json"
-      }
-    },
-    {
-      "itemCode": "4512776_77",
-      "status": "active",
-      "paths": {
-        "device": "devices/4512776_77/device.json"
       }
     }
   ]
