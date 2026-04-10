@@ -5,8 +5,7 @@
   "description": "Panel ovn Pro med WiFi eller Zigbee",
   "status": "active",
   "images": {
-    "thumbnail": "devices/4512776_77/images/device/4512776_77.png",
-    "hero": "devices/4512776_77/images/device/4512776_77.png"
+    "thumbnail": "devices/4512776_77/images/device/4512776_77.png"
   },
   "links": {
     "manual": "https://www.elektroimportoren.no/docs/lib/4512776-Brukerveiledning-5.pdf",

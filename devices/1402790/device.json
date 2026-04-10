@@ -76,6 +76,65 @@
           }
         }
       ]
+    },
+    {
+      "id": "1402790_sentral",
+      "name": "Sentral",
+      "description": "Namron Komfyrvakt - Sentral",
+      "images": {
+        "thumbnail": "devices/1402790/images/components/1402790.png"
+      },
+      "paths": {
+        "hardwareTypesHelp": "devices/1402790/help/1402790_sentral_hardware_types_help.json"
+      },
+      "hardware_types": [
+        {
+          "id": "1402790_1402790_sentral_110290",
+          "name": "110290",
+          "description": "Namron Komfyrvakt - Sentral",
+          "chipset": "nrf52",
+          "updateMethod": "app",
+          "images": {
+            "thumbnail": "devices/1402790/images/hardware_types/1402790_sentral_1402790_1402790_sentral_110290/1402790.png"
+          },
+          "links": {
+            "manual": "https://www.elektroimportoren.no/docs/lib/1402790-Brukerveiledning-5.pdf",
+            "product": "https://www.elektroimportoren.no/?1402790"
+          },
+          "detection": {
+            "bleNamePrefixes": [
+              "FireFencePSU"
+            ]
+          },
+          "paths": {
+            "help": "devices/1402790/help/1402790_sentral_1402790_1402790_sentral_110290.json",
+            "firmware": "devices/1402790/firmware/1402790_sentral_1402790_1402790_sentral_110290.json"
+          }
+        },
+        {
+          "id": "1402790_1402790_sentral_110068",
+          "name": "110068",
+          "description": "Namron Komfyrvakt - Sentral",
+          "chipset": "nrf52",
+          "updateMethod": "app",
+          "images": {
+            "thumbnail": "devices/1402790/images/hardware_types/1402790_sentral_1402790_1402790_sentral_110068/1402790.png"
+          },
+          "links": {
+            "manual": "https://www.elektroimportoren.no/docs/lib/1402790-Brukerveiledning-5.pdf",
+            "product": "https://www.elektroimportoren.no/?1402790"
+          },
+          "detection": {
+            "bleNamePrefixes": [
+              "FireFencePSU"
+            ]
+          },
+          "paths": {
+            "help": "devices/1402790/help/1402790_sentral_1402790_1402790_sentral_110068.json",
+            "firmware": "devices/1402790/firmware/1402790_sentral_1402790_1402790_sentral_110068.json"
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "1402790",
+  "componentId": "1402790_sentral",
+  "hardwareTypeId": "1402790_1402790_sentral_110068",
+  "sections": [
+    {
+      "id": "110068",
+      "title": "Namron Komfyrvakt - Sentral - 110068",
+      "image": "devices/1402790/images/help/sentral_110290_help_2.png",
+      "text": [
+        "\"Ta sensoren (HDU) forsiktig ut av holderen. Fjern batteriene.\",",
+        "\"Slå av og på sikringen slik at PCU restarter.\",",
+        "\"Enheten vil vises som FireFencePCU i enhetsoversikten.\",",
+        "\"Følg anvisningene i appen.\",",
+        "\"Når oppdateringen er fullført setter du batteriene tilbake i sensoren.\",",
+        "\"Restart PCU (slå av/på sikringen).\",",
+        "\"Sett sensoren tilbake i holderen.\",",
+        "\"Vent til displayet viser Stove Normal.\""
+      ]
+    }
+  ]
+}

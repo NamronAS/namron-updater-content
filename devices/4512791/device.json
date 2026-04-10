@@ -5,8 +5,7 @@
   "description": "1-2-pol dimmer",
   "status": "active",
   "images": {
-    "thumbnail": "devices/4512791/images/device/4512791.png",
-    "hero": "devices/4512791/images/device/4512791.png"
+    "thumbnail": "devices/4512791/images/device/4512791.png"
   },
   "links": {
     "manual": "https://www.elektroimportoren.no/docs/lib/4512791-Brukerveiledning-5.pdf",

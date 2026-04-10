@@ -7,8 +7,7 @@
   "chipset": "efr32",
   "updateMethod": "app",
   "images": {
-    "thumbnail": "devices/4512785/images/device/4512785.png",
-    "hero": "devices/4512785/images/device/4512785.png"
+    "thumbnail": "devices/4512785/images/device/4512785.png"
   },
   "links": {
     "manual": "https://www.elektroimportoren.no/docs/lib/4512785-Brukerveiledning-5.pdf",

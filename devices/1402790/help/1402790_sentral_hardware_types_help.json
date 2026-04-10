@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "1402790",
+  "componentId": "1402790_sentral",
+  "sections": [
+    {
+      "id": "1402790-sentral",
+      "title": "",
+      "image": "devices/1402790/images/help/sentral_110290_help_1.png",
+      "text": [
+        "Sjekk sentralens type i menyvalg 7 på enheten (110282/90 eller 110068).",
+        "Om du ikke finner dette så må du ikke oppdatere da enheten kan ødelegges om den oppdateres med feil programvare."
+      ]
+    }
+  ]
+}
