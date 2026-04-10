@@ -10,6 +10,7 @@
         {
           "id": "mcu",
           "name": "MCU",
+          "transport": "nordic_dfu",
           "file": "devices/1402790/firmware/sensor_vegg_110038_v1.5.1.zip"
         }
       ],

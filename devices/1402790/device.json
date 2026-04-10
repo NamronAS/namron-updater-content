@@ -62,6 +62,8 @@
         {
           "id": "1402790_1402790_veggsensor_110038",
           "name": "110038",
+          "chipset": "nrf52",
+          "updateMethod": "app",
           "images": {
             "thumbnail": "devices/1402790/images/hardware_types/1402790_veggsensor_1402790_1402790_veggsensor_110038/sensor_110038.png"
           },
