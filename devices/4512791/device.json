@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "4512791",
+  "name": "Namron Simplify Dimmer",
+  "status": "inactive",
+  "paths": {
+    "device": "devices/4512791/device.json"
+  }
+}
