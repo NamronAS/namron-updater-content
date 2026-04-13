@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "itemCode": "4512791",
+  "sections": [
+    {
+      "id": "component-selection",
+      "title": "Velg protokoll som skal oppdateres",
+      "image": "devices/4512791/images/help/4512791_help.webp",
+      "text": [
+        "Namron Simplify kan benyttes med to protokoller, velg den aktive protokollen du benytter enheten med for å oppdatere:"
+      ]
+    }
+  ]
+}
