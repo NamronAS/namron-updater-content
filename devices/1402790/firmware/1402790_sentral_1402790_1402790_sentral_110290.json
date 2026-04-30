@@ -41,6 +41,18 @@
         "\"Åpnet mulighet for å skru av og på via gateway\",",
         "\"Lagt til mulighet for å overstyre i 5 minutter via gateway\""
       ]
+    },
+    {
+      "version": "1.6.1",
+      "channel": "stable",
+      "targets": [
+        {
+          "id": "mcu",
+          "name": "MCU",
+          "transport": "nordic_dfu",
+          "file": "devices/1402790/firmware/DFU_FULL_110290_socket_v2_namron_v1.6.1.zip"
+        }
+      ]
     }
   ]
 }

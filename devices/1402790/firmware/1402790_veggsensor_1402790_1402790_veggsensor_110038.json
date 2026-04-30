@@ -19,6 +19,18 @@
         "\"Hyppigere temperaturmålinger\",",
         "\"Stabilitetsforbedringer\""
       ]
+    },
+    {
+      "version": "1.6.1",
+      "channel": "stable",
+      "targets": [
+        {
+          "id": "mcu",
+          "name": "MCU",
+          "transport": "nordic_dfu",
+          "file": "devices/1402790/firmware/DFU_FULL_110038_wall_v1.6.1.zip"
+        }
+      ]
     }
   ]
 }
