@@ -32,6 +32,13 @@
           "transport": "nordic_dfu",
           "file": "devices/1402790/firmware/DFU_FULL_110086_roof_v1.6.1.zip"
         }
+      ],
+      "changes": [
+        "- Zigbee implementation update",
+        "- Zigbee network counters, coordinator pinging with connection recovery",
+        "- Fault & errors persistent database",
+        "- Debug logs over NUS",
+        "- 24h override removed"
       ]
     }
   ]
