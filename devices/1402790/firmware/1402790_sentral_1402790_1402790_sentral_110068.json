@@ -60,6 +60,26 @@
         "- Debug logs over NUS",
         "- 24h override removed"
       ]
+    },
+    {
+      "version": "1.6.2",
+      "channel": "stable",
+      "targets": [
+        {
+          "id": "mcu",
+          "name": "MCU",
+          "transport": "nordic_dfu",
+          "file": "devices/1402790/firmware/DFU_FULL_110068_socket_namron_v1.6.2.zip"
+        }
+      ],
+      "changes": [
+        "•\tFlash garbage collection changes: centralized logic, simpler trigger, delayed garbage collection at boot",
+        "•\tZigbee implementation update",
+        "•\tZigbee network counters, coordinator pinging with connection recovery",
+        "•\tFault & errors persistent database",
+        "•\tDebug logs over NUS",
+        "•\t24h override removed"
+      ]
     }
   ]
 }
